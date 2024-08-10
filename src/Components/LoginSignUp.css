@@ -1,0 +1,43 @@
+.login-form{
+    min-width: 500px;
+    min-height: 400px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.input-fields form{
+    display: flex;
+    flex-direction: column;
+}
+.input-fields form input{
+    width: 300px;
+    background-color: #c4bbbb;
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    background-color: rgba(16, 16, 189, 0.842);
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 15px;
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
